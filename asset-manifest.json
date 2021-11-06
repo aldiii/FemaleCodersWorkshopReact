@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FemaleCodersWorkshopReact/static/css/main.1f7761cf.chunk.css",
+    "main.js": "/FemaleCodersWorkshopReact/static/js/main.6a52ebae.chunk.js",
+    "main.js.map": "/FemaleCodersWorkshopReact/static/js/main.6a52ebae.chunk.js.map",
+    "runtime-main.js": "/FemaleCodersWorkshopReact/static/js/runtime-main.884cf5ba.js",
+    "runtime-main.js.map": "/FemaleCodersWorkshopReact/static/js/runtime-main.884cf5ba.js.map",
+    "static/js/2.30c0b556.chunk.js": "/FemaleCodersWorkshopReact/static/js/2.30c0b556.chunk.js",
+    "static/js/2.30c0b556.chunk.js.map": "/FemaleCodersWorkshopReact/static/js/2.30c0b556.chunk.js.map",
+    "static/js/3.e3caf5e1.chunk.js": "/FemaleCodersWorkshopReact/static/js/3.e3caf5e1.chunk.js",
+    "static/js/3.e3caf5e1.chunk.js.map": "/FemaleCodersWorkshopReact/static/js/3.e3caf5e1.chunk.js.map",
+    "index.html": "/FemaleCodersWorkshopReact/index.html",
+    "service-worker.js": "/FemaleCodersWorkshopReact/service-worker.js",
+    "service-worker.js.map": "/FemaleCodersWorkshopReact/service-worker.js.map",
+    "static/css/main.1f7761cf.chunk.css.map": "/FemaleCodersWorkshopReact/static/css/main.1f7761cf.chunk.css.map",
+    "static/js/2.30c0b556.chunk.js.LICENSE.txt": "/FemaleCodersWorkshopReact/static/js/2.30c0b556.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.884cf5ba.js",
+    "static/js/2.30c0b556.chunk.js",
+    "static/css/main.1f7761cf.chunk.css",
+    "static/js/main.6a52ebae.chunk.js"
+  ]
+}
