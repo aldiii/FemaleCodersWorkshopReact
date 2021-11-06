@@ -3,7 +3,7 @@ import logo from "./logo.png";
 import Home from "./Home";
 import "./App.css";
 import Result from "./Result";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 
 function App() {
   let [word, setWord] = useState<string>();
@@ -12,7 +12,7 @@ function App() {
       <header>
         <img src={logo} alt="logo" />
       </header>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/result" element={<Result word={word}></Result>}></Route>
           <Route
@@ -22,7 +22,7 @@ function App() {
             }
           ></Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
       <footer>
         Made with 💌 by Aldiii <a href="http://github.com/aldiii"></a>
       </footer>
